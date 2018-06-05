@@ -1,5 +1,7 @@
-npm i 安装依赖  用CukeTest运行
+锘縩pm i 瀹夎渚濊禆  鐢–ukeTest杩愯
 
 npm install selenium-webdriver
 
 npm install chromedriver --chromedriver_cdnurl=http://cdn.npm.taobao.org/dist/chromedriver
+
+
