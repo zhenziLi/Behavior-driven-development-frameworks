@@ -1,4 +1,4 @@
-﻿npm i 安装依赖  用CukeTest运行
+﻿npm i 安装依赖（进入到package.json文件路径下才安装依赖，会自动将package.json中的模块安装到node-modules文件夹下）  用CukeTest运行
 
 npm install selenium-webdriver
 
